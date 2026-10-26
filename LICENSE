@@ -1,0 +1,14 @@
+SPDX-License-Identifier: GPL-2.0-or-later
+
+Copyright (C) 2026 ТОВ «Інтегріо» (Integrio LLC)
+
+The source code in this repository (Python, TypeScript, JavaScript, CSS) is provided under the
+GNU General Public License, version 2 or (at your option) any later version.
+Full license text: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+Not included and NOT licensed under the GPL: the logo of the inclusive centre «Світ можливостей»
+and the hero illustration used on the live site. They are referenced by path (/mp/logo.png,
+/mp/hero.webp) and remain the property of their owners. Replace them with your own artwork.
+
+The texts of exercises and resources in backend/mamyn/content.py are original editorial drafts of
+the product and are distributed under the same license.
